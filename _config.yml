@@ -67,9 +67,9 @@ people:
   description: entry_celeste
   social:
     - title: info
-      url: http://www.omshankara.com/#
+      url: http://www.omshankara.com/
     - title: envelope
-      url: mailto:info@omshankara.com#
+      url: mailto:info@omshankara.com
 
 - name: Charlie Higgins
   pic: charlie
