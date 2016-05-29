@@ -1,0 +1,116 @@
+url: https://y7kim.github.io
+baseurl: ""
+
+# Default language
+lang: es
+
+# Site settings
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# translations
+t:
+  en:
+    team:
+      menu: About Us
+      title: Our amazing team
+      subtitle: Yogestalt, a practice towards integration
+      footer: Welcoming the chance to practice in different places around the world, be it face to face o via videoconference. Meeting like-minded who embrace the ideas behind Yogestalt.
+    people:
+      entry_ricardo: Buenos Aires - Argentina
+      entry_cristina: Santa Cruz - Argentina
+      entry_celeste: Stockholm - Sweden
+      entry_charlie: Portland - USA
+      entry_santiago: Somewhere - Argentina
+  es:
+    team:
+      menu: Nosotros
+      title: Nuestro gran equipo
+      subtitle: Yogestalt, una práctica hacia la integración
+      footer: Haciendo posible practicar en diversos lugares del mundo, personalmente o por videoconferencia. Encontrándonos con personas identificadas con la propuesta de Yogestalt.
+    people:
+      entry_ricardo: Buenos Aires - Argentina
+      entry_cristina: Santa Cruz - Argentina
+      entry_celeste: Estocolmo - Suecia
+      entry_charlie: Portland - Estados Unidos
+      entry_santiago: Algún lugar - Argentina
+
+
+# Team names, titles and social links
+people:
+- name: Ricardo Risso Patrón
+  pic: ricardo
+  description: entry_ricardo
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Cristina Di Salvo
+  pic: cristina
+  description: entry_cristina
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Celeste Carrillo
+  pic: cele
+  description: entry_celeste
+  social:
+    - title: info
+      url: http://www.omshankara.com/#
+    - title: envelope
+      url: mailto:info@omshankara.com#
+
+- name: Charlie Higgins
+  pic: charlie
+  description: entry_charlie
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Santiago Ingram
+  pic: santiago
+  description: entry_santiago
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
