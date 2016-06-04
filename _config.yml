@@ -5,8 +5,8 @@ baseurl: ""
 lang: es
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Yogestalt
+email: ady.yoga@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
@@ -16,27 +16,59 @@ t:
     team:
       menu: About Us
       title: Our amazing team
-      subtitle: Yogestalt, a practice towards integration
-      footer: Welcoming the chance to practice in different places around the world, be it face to face o via videoconference. Meeting like-minded who embrace the ideas behind Yogestalt.
+      subtitle: "Yogestalt, a practice towards integration"
+      footer: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social."
+      footer: "When practicing, people receive elements that allow them to take ownership of their well-being, in an autonomus way and by self-motivation. This results in inner satisfaction, tranquility, vibrancy, and social interaction"
     people:
       entry_ricardo: Buenos Aires - Argentina
       entry_cristina: Santa Cruz - Argentina
       entry_celeste: Stockholm - Sweden
       entry_charlie: Portland - USA
       entry_santiago: Somewhere - Argentina
+    contact:
+      menu: Contact
+      title: Contact Us
+      subtitle: "Welcoming the chance to practice in different places around the world, be it face to face o via videoconference. Meeting like-minded who embrace the ideas behind Yogestalt."
+      name: Your Name *
+      email: Your Email *
+      phone: Your Phone
+      message: Your message *
+      submit: Send Message
+      subject: Question from website
+      require_name: Please enter your name.
+      require_email: Please enter your email address.
+      require_message: Please enter a message.
+      submit_ok: Your message has been sent.
+      submit_fail: "Your message could not be sent, try again later or send us an email to <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
   es:
     team:
       menu: Nosotros
       title: Nuestro gran equipo
-      subtitle: Yogestalt, una práctica hacia la integración
-      footer: Haciendo posible practicar en diversos lugares del mundo, personalmente o por videoconferencia. Encontrándonos con personas identificadas con la propuesta de Yogestalt.
+      subtitle: "Yogestalt, una práctica hacia la integración"
+      footer: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social."
     people:
       entry_ricardo: Buenos Aires - Argentina
       entry_cristina: Santa Cruz - Argentina
       entry_celeste: Estocolmo - Suecia
       entry_charlie: Portland - Estados Unidos
       entry_santiago: Algún lugar - Argentina
-
+    contact:
+      menu: Contacto
+      title: Contactanos
+      subtitle:
+        - "Haciendo posible practicar en diversos lugares del mundo, personalmente o por videoconferencia."
+        - "Encontrándonos con personas identificadas con la propuesta de Yogestalt."
+      name: Tu Nombre *
+      email: Tu Email *
+      phone: Tu Teléfono
+      message: Tu Mensaje *
+      submit: Enviar
+      subject: Consulta desde la página
+      require_name: Por favor ingresá tu nombre.
+      require_email: Por favor ingresá tu dirección de email.
+      require_message: Por favor ingresá tu mensaje.
+      submit_ok: Tu mensaje fue enviado.
+      submit_fail: "No se pudo enviar tu consulta, intentá nuevamente o escribinos a <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
 
 # Team names, titles and social links
 people:
