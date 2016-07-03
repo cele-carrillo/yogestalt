@@ -19,12 +19,47 @@ t:
       subtitle: "Yogestalt, a practice towards integration"
       footer: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social."
       footer: "When practicing, people receive elements that allow them to take ownership of their well-being, in an autonomus way and by self-motivation. This results in inner satisfaction, tranquility, vibrancy, and social interaction"
+    practice:
+      menu: Practice
+      title: The practice
+      subtitle: The ways in which we practice and what they mean to us
+    angas:
+      asana:
+        title: Ásana
+        subtitle:
+        description:
+      mudra:
+        title: Mudrá
+        subtitle:
+        description:
+      pranayama:
+        title: Pránáyáma
+        subtitle:
+        description:
+      kriya:
+        title: Kriyá
+        subtitle:
+        description:
+      mantra:
+        title: Mantra
+        subtitle:
+        description:
+      yoganidra:
+        title: Yoganidra
+        subtitle:
+        description:      
+      puja:
+        title: Pújá
+        subtitle:
+        description:
+      dhyana:
+        title: Dhyana
+        subtitle:
+        description:
     people:
       entry_ricardo: Buenos Aires - Argentina
       entry_cristina: Santa Cruz - Argentina
-      entry_celeste: Stockholm - Sweden
-      entry_charlie: Portland - USA
-      entry_santiago: Somewhere - Argentina
+      entry_celeste: Sydney - Australia
     contact:
       menu: Contact
       title: Contact Us
@@ -46,12 +81,47 @@ t:
       title: Nuestro gran equipo
       subtitle: "Yogestalt, una práctica hacia la integración"
       footer: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social."
+    practice:
+      menu: Práctica
+      title: La práctica
+      subtitle: Nuestras formas de practicar y qué significan para nosotros
+    angas:
+      asana:
+        title: Ásana
+        subtitle: Cualquier posición estable y cómoda.
+        description: La descripción copada de este anga que sea bien punch
+      mudra:
+        title: Mudrá
+        subtitle: Gesto hecho con las manos
+        description: "Los mudrá son otra manera que encontramos dentro de la práctica del Yoga. Nos ofrecen una forma de conectarnos y cooperan en el encuentro de los opuestos y su integración. Cuando hacemos un mudrá con las manos, se producen en nosotros reacciones que van desde lo corporal, pasando por lo energético, lo emocional, el mental y que llegan hasta al plano de la intuición."
+      pranayama:
+        title: Pránáyáma
+        subtitle: Expansión de la energía vital.
+        description: Expandimos nuestra energía vital a través de diversas maneras de respirar.
+      kriya:
+        title: Kriyá
+        subtitle: Activación orgánica.
+        description:
+      mantra:
+        title: Mantra
+        subtitle: "El sonido, instrumento para la mente."
+        description: El sonido como instrumento para la mente.
+      yoganidra:
+        title: Yoganidra
+        subtitle: La integración a través del sueño.
+        description:      
+      puja:
+        title: Pújá
+        subtitle: Ofrenda.
+        description: "<i>Pújá</i> es \"honor, culto, respeto, reverencia, veneración, homenaje a los superiores, adoración de los dioses.\". El pújá no tiene relación de origen con las religiones institucionalizadas, es anterior a la existencia de ellas. Es un acto inherente al ser humano, es una manera de vivir, es una forma de expresión y es, esencialmente, una práctica."
+      dhyana:
+        title: Dhyana
+        subtitle: Contemplación.
+        description: "La práctica de <i>dhyána</i> nos propone dejar de pensar por un lapso de tiempo determinado, para que sólo existamos nosotros y lo que elegimos contemplar. Nos dice que contemplemos algo por un cierto tiempo y que evitemos reflexionar acerca de lo que contemplamos. Es esta permanencia, en nuestro objeto, la que da como efecto, un estado de profunda presencia y conocimiento."
     people:
       entry_ricardo: Buenos Aires - Argentina
       entry_cristina: Santa Cruz - Argentina
-      entry_celeste: Estocolmo - Suecia
-      entry_charlie: Portland - Estados Unidos
-      entry_santiago: Algún lugar - Argentina
+      entry_celeste: Sydney - Australia
     contact:
       menu: Contacto
       title: Contactanos
@@ -69,6 +139,56 @@ t:
       require_message: Por favor ingresá tu mensaje.
       submit_ok: Tu mensaje fue enviado.
       submit_fail: "No se pudo enviar tu consulta, intentá nuevamente o escribinos a <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
+
+angas:
+
+- item: asana
+  layout: default
+  modal-id: 1
+  img: asana.jpg
+  thumbnail: asana-thumbnail.jpg
+
+- item: mudra
+  layout: default
+  modal-id: 2
+  img: mudra.jpg
+  thumbnail: mudra-thumbnail.jpg
+
+- item: pranayama
+  layout: default
+  modal-id: 3
+  img: pranayama.jpg
+  thumbnail: pranayama-thumbnail.jpg
+
+- item: kriya
+  layout: default
+  modal-id: 4
+  img: kriya.jpg
+  thumbnail: kriya-thumbnail.jpg
+
+- item: mantra
+  layout: default
+  modal-id: 5
+  img: mantra.jpg
+  thumbnail: mantra-thumbnail.jpg
+
+- item: yoganidra
+  layout: default
+  modal-id: 6
+  img: yoganidra.jpg
+  thumbnail: yoganidra-thumbnail.jpg
+
+- item: puja
+  layout: default
+  modal-id: 7
+  img: puja.jpg
+  thumbnail: puja-thumbnail.jpg
+
+- item: dhyana
+  layout: default
+  modal-id: 8
+  img: dhyana.jpg
+  thumbnail: dhyana-thumbnail.jpg
 
 # Team names, titles and social links
 people:
@@ -103,27 +223,6 @@ people:
     - title: envelope
       url: mailto:info@omshankara.com
 
-- name: Charlie Higgins
-  pic: charlie
-  description: entry_charlie
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Santiago Ingram
-  pic: santiago
-  description: entry_santiago
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
