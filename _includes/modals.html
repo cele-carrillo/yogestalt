@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
  {% for anga in site.angas %}
-    <div class="portfolio-modal modal fade" id="portfolioModal{{ anga.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="anga{{ anga.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -14,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ site.t[page.lang].angas[anga.item].title }}</h2>
                             <hr class="star-primary">
-                            <img src="{{ site.base_url }}/img/portfolio/{{ anga.img }}" class="img-responsive img-centered" alt="{{ site.t[page.lang].angas[anga.item].subtitle }}">
+                            <img src="{{ site.base_url }}/img/angas/{{ anga.img }}" class="img-responsive img-centered" alt="{{ site.t[page.lang].angas[anga.item].subtitle }}">
                             <p>{{ site.t[page.lang].angas[anga.item].description }}</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>

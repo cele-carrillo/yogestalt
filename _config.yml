@@ -13,6 +13,15 @@ description: "Write an awesome description for your new site here. You can edit 
 # translations
 t:
   en:
+    intro:
+      lead_in: "Traducir"
+      title: "Traducir"
+      btn_more: Tell Me More
+    yogestalt:
+      menu: Yogestalt
+      title: "What is Yogestalt?"
+      subtitle: "To trust in our own organic nature."
+      contact_link: "Join<br>a class<br>today!"
     team:
       menu: About Us
       title: Our amazing team
@@ -23,6 +32,22 @@ t:
       menu: Practice
       title: The practice
       subtitle: The ways in which we practice and what they mean to us
+    timeline:
+      traditional_practices:
+        title: Traditional practices
+        text: "Traducir esto"
+      intention:
+        title: Traducir
+        text: "Traducir"
+      practice:
+        title: Traducir
+        text: "Traducir"
+      learnings:
+        title: Traducir
+        text: "Traducir"
+      present:
+        title: Traducir
+        text: "Traducir"
     angas:
       asana:
         title: Ásana
@@ -76,6 +101,15 @@ t:
       submit_ok: Your message has been sent.
       submit_fail: "Your message could not be sent, try again later or send us an email to <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
   es:
+    intro:
+      lead_in: "Despejar la mente, tonificar el cuerpo, abrir a la inspiración"
+      title: "Una práctica hacia la integración"
+      btn_more: Leer más
+    yogestalt:
+      menu: Yogestalt
+      title: "¿Qué es Yogestalt?"
+      subtitle: "Confiar en la propia naturaleza orgánica."
+      contact_link: "Sumate<br>a la<br>práctica!"
     team:
       menu: Nosotros
       title: Nuestro gran equipo
@@ -85,6 +119,22 @@ t:
       menu: Práctica
       title: La práctica
       subtitle: Nuestras formas de practicar y qué significan para nosotros
+    timeline:
+      traditional_practices:
+        title: Prácticas tradicionales
+        text: "La integración de prácticas tradicionales en Yogestalt como ásanas (posiciones corporales), pránáyámas (expansión de la energía por medio de respiratorios), mantras (vocalización), mudrás (gestos hechos con las manos), yoganidra ( la integración a través del sueño), samyama (concentración, contemplación, identificación), kriyás (activación orgánica) proporcionan un programa con recursos prácticos para la vida cotidiana que se pueden aplicar en cualquier momento."
+      intention:
+        title: Nuestra intención
+        text: "En Yogestalt hay una permanente intención de retirarse de las ideas preconcebidas para iniciar un camino personal de descubrimiento consciente de las partes opuestas que nos conforman y dan origen a los torbellinos de la conciencia. Yogestalt propone diversas prácticas para facilitar el reconocimiento de dichos opuestos, la tensión que existe entre ellos y profundizar en el contacto. Una vez reconocida dicha tensión,  surge la forma de responder orgánicamente. Esta respuesta orgánica sería similar a cuando sentimos picazón y nos rascamos, o cuando sentimos sed y bebemos agua para satisfacer de forma espontánea, no especulativa, esta necesidad."
+      practice:
+        title: La práctica
+        text: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social. Desarrollando un fortalecimiento en la autoestima, en la capacidad para resolver dificultades, en la gestión de la presión interna y externa y en la administración del estrés físico y emocional."
+      learnings:
+        title: Lo que aprendemos
+        text: "Al practicar aprendemos a entrar en contacto con el lado izquierdo y el lado derecho, con lo que se acepta y lo que se rechaza, y a descubrir dónde se siente la tensión corporal y dónde la distensión, dónde abierto y dónde cerrado, la agresión y la sumisión, la alegría y la tristeza, la crueldad y la compasión, el amor y el miedo implícitos en la dinámica interna, y muchísimos otros opuestos que se irán descubriendo por medio de la experiencia."
+      present:
+        title: Estando presentes
+        text: "Al lograr la capacidad de estar presente se consiguen estados de profunda concentración y awareness, el darse cuenta. Permitiendo un descanso en el flujo de los pensamientos, siempre activos, surgiendo precisión y autenticidad en el hacer. Se descubre el movimiento y la forma de los propios sentimientos y pensamientos, como aquellos que surgen en el encuentro con otras personas reaprendiendo a comunicar las necesidades que surgen de esa interacción."
     angas:
       asana:
         title: Ásana
@@ -140,52 +190,55 @@ t:
       submit_ok: Tu mensaje fue enviado.
       submit_fail: "No se pudo enviar tu consulta, intentá nuevamente o escribinos a <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
 
-angas:
+timeline:
+- item: traditional_practices
+  img: 1.jpg
+- item: intention
+  img: 2.jpg
+- item: practice
+  img: 3.jpg
+- item: learnings
+  img: 4.jpg
+- item: present
+  img: 5.jpg
 
+angas:
 - item: asana
-  layout: default
   modal-id: 1
   img: asana.jpg
   thumbnail: asana-thumbnail.jpg
 
 - item: mudra
-  layout: default
   modal-id: 2
   img: mudra.jpg
   thumbnail: mudra-thumbnail.jpg
 
 - item: pranayama
-  layout: default
   modal-id: 3
   img: pranayama.jpg
   thumbnail: pranayama-thumbnail.jpg
 
 - item: kriya
-  layout: default
   modal-id: 4
   img: kriya.jpg
   thumbnail: kriya-thumbnail.jpg
 
 - item: mantra
-  layout: default
   modal-id: 5
   img: mantra.jpg
   thumbnail: mantra-thumbnail.jpg
 
 - item: yoganidra
-  layout: default
   modal-id: 6
   img: yoganidra.jpg
   thumbnail: yoganidra-thumbnail.jpg
 
 - item: puja
-  layout: default
   modal-id: 7
   img: puja.jpg
   thumbnail: puja-thumbnail.jpg
 
 - item: dhyana
-  layout: default
   modal-id: 8
   img: dhyana.jpg
   thumbnail: dhyana-thumbnail.jpg
