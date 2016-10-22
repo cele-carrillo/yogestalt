@@ -14,8 +14,8 @@ description: "Write an awesome description for your new site here. You can edit 
 t:
   en:
     intro:
-      lead_in: "Traducir"
-      title: "Traducir"
+      lead_in: "Clear the mind, tone the body, open to inspiration"
+      title: "A practice towards integration"
       btn_more: Tell Me More
     yogestalt:
       menu: Yogestalt
@@ -35,52 +35,52 @@ t:
     timeline:
       traditional_practices:
         title: Traditional practices
-        text: "Traducir esto"
+        text: "In Yogestalt the integration of traditional practices such as ásanas (body positions), pránáyámas (expansion of energy through breathing), mantras (vocalization), mudrás (gestures made with the hands), yoganidra (integration through sleep), samyama (concentration, contemplation, identification), kriyás (organic activation) provide practical resources for daily life which can be used at any time."
       intention:
-        title: Traducir
-        text: "Traducir"
+        title: Our intention
+        text: "In Yogestalt there is a permanent intention to withdraw from the preconceived ideas in order to begin a journey of self-discovery, becoming aware of the opposing aspects that make us who we are and which give rise to the turmoil of our  consciousness. Yogestalt proposes various ways of practicing so as to identify these opposites, as well as the tension between. Once this tension becomes obvious, how to respond to it appears organically. This organic response would be similar to when it itches and we scratch, or when we feel thirsty and drink water, so as to satisfy our need in a spontaneous and not speculative manner."
       practice:
-        title: Traducir
-        text: "Traducir"
+        title: The practice
+        text: "In this practice, people learn to take care of their own wellbeing, with autonomy and self-motivation. Which results in a sense of satisfaction, tranquility, vitality and social interaction. People also develop a stronger self-esteem, and the ability to solve difficulties in managing internal and external pressure and physical and emotional stress."
       learnings:
-        title: Traducir
-        text: "Traducir"
+        title: What we learn
+        text: "By practicing we learn to contact our own polarities: the left side and the right side, what is accepted and what is rejected, where we feel tension and where relaxation, where we are open and where closed. We also learn to get in touch with emotions such as joy and sorrow, cruelty and compassion, aggression and submission, love and fear. As well as with many other opposing aspects we discover through experience."
       present:
-        title: Traducir
-        text: "Traducir"
+        title: Being present
+        text: "From the practice of being fully present, states of deep concentration and awareness arise. This brings about a break in the flow of thoughts which results in an accurate and authentic doing and being. In this state, we can rediscover the movement and shape of our own feelings and thoughts, as well as those emerging from the encounter with others, relearning to communicate the needs that originate from this interaction. You learn to be present in the here and now, to connect with your own polarities, sensations, feelings, thoughts, intuition, with the superficial and deep aspects of yourself, with what is being done, how it’s being done, what is being felt, and what needs surface."
     angas:
       asana:
         title: Ásana
-        subtitle:
-        description:
+        subtitle: "To find a position, feel and contemplate yourself in it, and do as you need."
+        description: "Discovering one's position trying to remain present, feeling, with the intention of reaching a state of deep comfort. Through the position of the body a trip to the energetic, emotional, mental, intuitive, superficial and deep aspects emerges."
       mudra:
         title: Mudrá
-        subtitle:
-        description:
+        subtitle: "Gestures made with our hands."
+        description: "The gestures made with our hands set in motion superficial and deep experiences. The gestures change the states of consciousness."
       pranayama:
         title: Pránáyáma
-        subtitle:
-        description:
+        subtitle: "To expand and contract ourselves through breathing."
+        description: "Breathing in various ways energy expands."
       kriya:
         title: Kriyá
-        subtitle:
-        description:
+        subtitle: "Organic activation."
+        description: "Organic activation by means of water, air and heat."
       mantra:
         title: Mantra
-        subtitle:
-        description:
+        subtitle: "Sound as instrument for the mind."
+        description: "Sound vibration and its effects on the internal and external aspects."
       yoganidra:
         title: Yoganidra
-        subtitle:
-        description:      
+        subtitle: "The time to integrate dreaming with being awake."
+        description: "The time when dreams become conscious. This contemplative state lays between sleep and wakefulness."   
       puja:
         title: Pújá
-        subtitle:
-        description:
+        subtitle: "Appreciating, offering and giving."
+        description: "The time to connect with giving and appreciating."
       dhyana:
         title: Dhyana
-        subtitle:
-        description:
+        subtitle: "Contemplation."
+        description: "Regaining the contemplative state that brings us to the present, stimulating our awareness."
     people:
       entry_ricardo: Buenos Aires - Argentina
       entry_cristina: Santa Cruz - Argentina
@@ -122,52 +122,52 @@ t:
     timeline:
       traditional_practices:
         title: Prácticas tradicionales
-        text: "La integración de prácticas tradicionales en Yogestalt como ásanas (posiciones corporales), pránáyámas (expansión de la energía por medio de respiratorios), mantras (vocalización), mudrás (gestos hechos con las manos), yoganidra ( la integración a través del sueño), samyama (concentración, contemplación, identificación), kriyás (activación orgánica) proporcionan un programa con recursos prácticos para la vida cotidiana que se pueden aplicar en cualquier momento."
+        text: "En Yogestalt la integración de prácticas tradicionales como la de los ásanas (posiciones corporales), pránáyámas (expansión de la energía por medio de respiratorios), mantras (vocalización), mudrás (gestos hechos con las manos), yoganidra ( la integración a través del sueño), samyama (concentración, contemplación, identificación), kriyás (activación orgánica) proporcionan recursos prácticos para la vida cotidiana que se pueden hacer en cualquier momento."
       intention:
         title: Nuestra intención
         text: "En Yogestalt hay una permanente intención de retirarse de las ideas preconcebidas para iniciar un camino personal de descubrimiento consciente de las partes opuestas que nos conforman y dan origen a los torbellinos de la conciencia. Yogestalt propone diversas prácticas para facilitar el reconocimiento de dichos opuestos, la tensión que existe entre ellos y profundizar en el contacto. Una vez reconocida dicha tensión,  surge la forma de responder orgánicamente. Esta respuesta orgánica sería similar a cuando sentimos picazón y nos rascamos, o cuando sentimos sed y bebemos agua para satisfacer de forma espontánea, no especulativa, esta necesidad."
       practice:
         title: La práctica
-        text: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social. Desarrollando un fortalecimiento en la autoestima, en la capacidad para resolver dificultades, en la gestión de la presión interna y externa y en la administración del estrés físico y emocional."
+        text: "En la práctica las personas aprenden a hacerse cargo de su bienestar de forma independiente y por propia motivación. Lo que da como resultado una sensación de satisfacción, tranquilidad, vitalidad e interacción social. Desarrollándose un fortalecimiento en la autoestima, en la capacidad para resolver dificultades en la gestión de la presión interna y externa, como en la administración del estrés físico y emocional."
       learnings:
         title: Lo que aprendemos
-        text: "Al practicar aprendemos a entrar en contacto con el lado izquierdo y el lado derecho, con lo que se acepta y lo que se rechaza, y a descubrir dónde se siente la tensión corporal y dónde la distensión, dónde abierto y dónde cerrado, la agresión y la sumisión, la alegría y la tristeza, la crueldad y la compasión, el amor y el miedo implícitos en la dinámica interna, y muchísimos otros opuestos que se irán descubriendo por medio de la experiencia."
+        text: "Al practicar se aprende a entrar en contacto las polaridades. Con el lado izquierdo y el lado derecho, con lo que se acepta y lo que se rechaza, a descubrir dónde se siente la tensión corporal y dónde la distensión, dónde abierto y dónde cerrado. Y a entrar en contacto con emociones como la agresión y la sumisión, la alegría y la tristeza, la crueldad y la compasión, el amor y el miedo. Y con muchos otros opuestos que se descubrirán por medio de la experiencia."
       present:
         title: Estando presentes
-        text: "Al lograr la capacidad de estar presente se consiguen estados de profunda concentración y awareness, el darse cuenta. Permitiendo un descanso en el flujo de los pensamientos, siempre activos, surgiendo precisión y autenticidad en el hacer. Se descubre el movimiento y la forma de los propios sentimientos y pensamientos, como aquellos que surgen en el encuentro con otras personas reaprendiendo a comunicar las necesidades que surgen de esa interacción."
+        text: "Al estar presente se vivencian estados de profunda concentración y awareness, el darse cuenta. Surgiendo un descanso en el flujo de los pensamientos que da lugar a un hacer preciso y auténtico en el que se descubre el movimiento y forma de los propios sentimientos y pensamientos. Como aquellos que surgen en el encuentro con otras personas, reaprendiendo a comunicar las necesidades que surgen en la interacción. Se aprende a estar en el aquí y ahora, a conectarse con las polaridades, con las sensaciones, con los sentimientos, con los pensamientos, con la intuición, con los aspectos superficiales y profundos de si mismo, con lo que se hace, con el como se hace, con el donde se hace, con lo que se siente al hacer lo que se hace, con lo que se necesita y con el hacer lo que se necesita."
     angas:
       asana:
         title: Ásana
-        subtitle: Cualquier posición estable y cómoda.
-        description: La descripción copada de este anga que sea bien punch
+        subtitle: Ubicarse, sentirse, contemplarse y  hacer lo que se necesita.
+        description: "Descubrir la propia posición intentando permanecer presente, sintiéndose y con la intención de llegar a una profunda comodidad. Por medio de la posición, un viaje de lo corporal a lo energético, a lo emocional, a lo mental, a lo intuitivo, hacia los aspectos superficiales y profundos."
       mudra:
         title: Mudrá
-        subtitle: Gesto hecho con las manos
-        description: "Los mudrá son otra manera que encontramos dentro de la práctica del Yoga. Nos ofrecen una forma de conectarnos y cooperan en el encuentro de los opuestos y su integración. Cuando hacemos un mudrá con las manos, se producen en nosotros reacciones que van desde lo corporal, pasando por lo energético, lo emocional, el mental y que llegan hasta al plano de la intuición."
+        subtitle: Los gestos hechos con las manos. 
+        description: "Los gestos hechos con las manos, que abren a experiencias superficiales y profundas. Los gestos que modifican los estados de conciencia."
       pranayama:
         title: Pránáyáma
-        subtitle: Expansión de la energía vital.
-        description: Expandimos nuestra energía vital a través de diversas maneras de respirar.
+        subtitle: Expandirse y contraerse por medio del respirar.
+        description: "Respirando de diversas maneras la energía se expande."
       kriya:
         title: Kriyá
         subtitle: Activación orgánica.
-        description:
+        description: "Activación orgánica por medio del agua, del aire y del calor."
       mantra:
         title: Mantra
         subtitle: "El sonido, instrumento para la mente."
-        description: El sonido como instrumento para la mente.
+        description: "La vibración del sonido y sus efectos sobre lo interno y externo."
       yoganidra:
         title: Yoganidra
-        subtitle: La integración a través del sueño.
-        description:      
+        subtitle: El momento de integrar lo onírico con el estar despierto.
+        description: "El momento en el que los sueños se tornan conscientes. En un estado contemplativo se experimenta ese estado que está entre el sueño y el estar despierto."
       puja:
         title: Pújá
-        subtitle: Ofrenda.
-        description: "<i>Pújá</i> es \"honor, culto, respeto, reverencia, veneración, homenaje a los superiores, adoración de los dioses.\". El pújá no tiene relación de origen con las religiones institucionalizadas, es anterior a la existencia de ellas. Es un acto inherente al ser humano, es una manera de vivir, es una forma de expresión y es, esencialmente, una práctica."
+        subtitle: Ofrendarse y ofrendar.
+        description: "El momento de conectarse con el darse y con el dar."
       dhyana:
         title: Dhyana
         subtitle: Contemplación.
-        description: "La práctica de <i>dhyána</i> nos propone dejar de pensar por un lapso de tiempo determinado, para que sólo existamos nosotros y lo que elegimos contemplar. Nos dice que contemplemos algo por un cierto tiempo y que evitemos reflexionar acerca de lo que contemplamos. Es esta permanencia, en nuestro objeto, la que da como efecto, un estado de profunda presencia y conocimiento."
+        description: "Recuperando el estado contemplativo que nos hace estar cuidadosamente presente facilitando el darse cuenta."
     people:
       entry_ricardo: Buenos Aires - Argentina
       entry_cristina: Santa Cruz - Argentina
