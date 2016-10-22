@@ -1,5 +1,6 @@
  <!-- Portfolio Modals -->
  {% for anga in site.angas %}
+    {% assign info = site.t[page.lang].angas[anga.item] %}
     <div class="portfolio-modal modal fade" id="anga{{ anga.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -10,13 +11,14 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-lg-12">
                         <div class="modal-body">
-                            <h2>{{ site.t[page.lang].angas[anga.item].title }}</h2>
+                            <h2>{{ info.title }}</h2>
+                            <h4 class="text-muted">{{ info.subtitle }}</h4>
                             <hr class="star-primary">
-                            <img src="{{ site.base_url }}/img/angas/{{ anga.img }}" class="img-responsive img-centered" alt="{{ site.t[page.lang].angas[anga.item].subtitle }}">
-                            <p>{{ site.t[page.lang].angas[anga.item].description }}</p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <img src="{{ site.base_url }}/img/angas/{{ anga.img }}" class="img-responsive img-centered" alt="{{ info.subtitle }}">
+                            <p class="large">{{ info.description }}</p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{  site.t[page.lang].misc.close }}</button>
                         </div>
                     </div>
                 </div>

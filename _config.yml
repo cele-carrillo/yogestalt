@@ -13,6 +13,8 @@ description: "Write an awesome description for your new site here. You can edit 
 # translations
 t:
   en:
+    misc:
+      close: Close
     intro:
       lead_in: "Clear the mind, tone the body, open to inspiration"
       title: "A practice towards integration"
@@ -101,6 +103,8 @@ t:
       submit_ok: Your message has been sent.
       submit_fail: "Your message could not be sent, try again later or send us an email to <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
   es:
+    misc:
+      close: Cerrar
     intro:
       lead_in: "Despejar la mente, tonificar el cuerpo, abrir a la inspiración"
       title: "Una práctica hacia la integración"
