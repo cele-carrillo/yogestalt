@@ -4,6 +4,10 @@ baseurl: ""
 # Default language
 lang: es
 
+languages:
+  es: Español
+  en: English
+
 # Site settings
 title: Yogestalt
 email: ady.yoga@gmail.com

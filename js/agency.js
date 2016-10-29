@@ -4,6 +4,16 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+// jQuery to keep track of the current section when switching languages
+$("ul.nav").on('activate.bs.scrollspy', function () {
+   var hash = $(this).find("li.active a").attr("href");
+
+   $("a.lang-choice").each(function() {
+      var base = this.href.split("#")[0];
+      this.href = base.concat(hash);
+    });
+});
+
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('a.page-scroll').bind('click', function(event) {

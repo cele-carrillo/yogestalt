@@ -4,6 +4,20 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.lang-selector {
+    display: block;
+    float: right;
+    padding-left: 70px;
+}
+
+.lang-choice {
+    font-size: 12px;
+}
+
+.en:lang(en), .es:lang(es) {
+    color: #{{ site.data.template.color.secondary }} !important;
+}
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -358,19 +372,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio .portfolio-item {
+#angas .angas-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#angas .angas-item .angas-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#angas .angas-item .angas-link .angas-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -382,11 +396,11 @@ section h3.section-subheading {
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+#angas .angas-item .angas-link .angas-hover:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#angas .angas-item .angas-link .angas-hover .angas-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -397,16 +411,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#angas .angas-item .angas-link .angas-hover .angas-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#angas .angas-item .angas-link .angas-hover .angas-hover-content h3,
+#angas .angas-item .angas-link .angas-hover .angas-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#angas .angas-item .angas-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -414,24 +428,24 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#angas .angas-item .angas-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+#angas .angas-item .angas-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
 }
 
-#portfolio * {
+#angas * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #angas .angas-item {
         margin: 0 0 30px;
     }
 }
@@ -781,7 +795,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.portfolio-modal .modal-content {
+.angas-modal .modal-content {
     padding: 20px 0;
     min-height: 100%;
     border: 0;
@@ -792,32 +806,32 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
+.angas-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content p {
+.angas-modal .modal-content p {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content p.item-intro {
+.angas-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
 }
 
-.portfolio-modal .modal-content ul.list-inline {
+.angas-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content img {
+.angas-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .close-modal {
+.angas-modal .close-modal {
     float: right;
     padding-top: 20px;
     margin-right: 20px;
@@ -829,11 +843,11 @@ ul.social-buttons li a:active {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
+.angas-modal .close-modal:hover {
     opacity: .3;
 }
 
-.portfolio-modal .close-modal .lr {
+.angas-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -844,7 +858,7 @@ ul.social-buttons li a:active {
     transform: rotate(45deg);
 }
 
-.portfolio-modal .close-modal .lr .rl {
+.angas-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
