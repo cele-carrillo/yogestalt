@@ -11,14 +11,17 @@ languages:
 # Site settings
 title: Yogestalt
 email: info@yogestalt.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
+misc:
+  blog_url: http://blog.yogestalt.com
+  blog_caption: Blog
 
 # translations
 t:
   en:
     misc:
       close: Close
+      description: "In Yogestalt the integration of traditional practices such as ásanas, pránáyámas, mantras, mudrás, yoganidra, dhyána, and kriyás provide practical resources for daily life."
     intro:
       lead_in: "Clear the mind, tone the body, open to inspiration"
       title: "A practice towards integration"
@@ -30,7 +33,7 @@ t:
       contact_link: "Join<br>a class<br>today!"
     team:
       menu: About Us
-      title: Our amazing team
+      title: Who we are
       subtitle: "Yogestalt, a practice towards integration"
       footer: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social."
       footer: "When practicing, people receive elements that allow them to take ownership of their well-being, in an autonomus way and by self-motivation. This results in inner satisfaction, tranquility, vibrancy, and social interaction"
@@ -108,6 +111,7 @@ t:
       submit_fail: "Your message could not be sent, try again later or send us an email to <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
   es:
     misc:
+      description: "En Yogestalt la integración de prácticas tradicionales como ásanas, pránáyámas, mantras, mudrás, yoganidrá, dhyána y kriyás proporcionan recursos prácticos para la vida cotidiana."
       close: Cerrar
     intro:
       lead_in: "Despejar la mente, tonificar el cuerpo, abrir a la inspiración"
@@ -120,7 +124,7 @@ t:
       contact_link: "Sumate<br>a la<br>práctica!"
     team:
       menu: Nosotros
-      title: Nuestro gran equipo
+      title: Nosotros
       subtitle: "Yogestalt, una práctica hacia la integración"
       footer: "En la práctica las personas reciben elementos para hacerse cargo de su bienestar de forma independiente y por propia motivación. Esto da como resultado satisfacción interior, tranquilidad, vitalidad e interacción social."
     practice:
