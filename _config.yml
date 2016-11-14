@@ -1,4 +1,4 @@
-url: https://cele-carrillo.github.io
+url: http://www.yogestalt.com
 baseurl: ""
 
 # Default language
@@ -108,7 +108,7 @@ t:
       require_email: Please enter your email address.
       require_message: Please enter a message.
       submit_ok: Your message has been sent.
-      submit_fail: "Your message could not be sent, try again later or send us an email to <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
+      submit_fail: "Your message could not be sent, try again later or send us an email to <a href='mailto:info@yogestalt.com'>info@yogestalt.com</a>."
   es:
     misc:
       description: "En Yogestalt la integración de prácticas tradicionales como ásanas, pránáyámas, mantras, mudrás, yoganidrá, dhyána y kriyás proporcionan recursos prácticos para la vida cotidiana."
@@ -200,7 +200,7 @@ t:
       require_email: Por favor ingresá tu dirección de email.
       require_message: Por favor ingresá tu mensaje.
       submit_ok: Tu mensaje fue enviado.
-      submit_fail: "No se pudo enviar tu consulta, intentá nuevamente o escribinos a <a href='mailto:ady.yoga@gmail.com'>ady.yoga@gmail.com</a>."
+      submit_fail: "No se pudo enviar tu consulta, intentá nuevamente o escribinos a <a href='mailto:info@yogestalt.com'>info@yogestalt.com</a>."
 
 timeline:
 - item: traditional_practices
@@ -261,51 +261,25 @@ people:
   pic: ricardo
   description: entry_ricardo
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: rss
+      url: http://blog.yogestalt.com
+    - title: envelope
+      url: mailto:ricardo@yogestalt.com
 
 - name: Cristina Di Salvo
   pic: cristina
   description: entry_cristina
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  social: []
 
 - name: Celeste Carrillo
   pic: cele
   description: entry_celeste
   social:
-    - title: info
+    - title: globe
       url: http://www.omshankara.com/
     - title: envelope
-      url: mailto:info@omshankara.com
+      url: mailto:info@yogestalt.com
 
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
