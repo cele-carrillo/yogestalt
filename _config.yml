@@ -44,7 +44,7 @@ t:
     timeline:
       traditional_practices:
         title: Traditional practices
-        text: "In Yogestalt the integration of traditional practices such as ásanas (body positions), pránáyámas (expansion of energy through breathing), mantras (vocalization), mudrás (gestures made with the hands), yoganidra (integration through sleep), dhyána (concentration, contemplation), kriyás (organic activation) provide practical resources for daily life which can be used at any time."
+        text: "In Yogestalt the integration of traditional practices such as ásanas (body positions), pránáyámas (expansion of energy through breathing), mantras (vocalization), mudrás (gestures made with the hands), yoganidra (integration through sleep), dhyána (concentration, contemplation), kriyás (organic activation), and the resources provided by Gestalt Therapy offer practical tools for daily life which can be used at any time."
       intention:
         title: Our intention
         text: "In Yogestalt there is a permanent intention to withdraw from the preconceived ideas in order to begin a journey of self-discovery, becoming aware of the opposing aspects that make us who we are and which give rise to the turmoil of our  consciousness. Yogestalt proposes various ways of practicing so as to identify these opposites, as well as the tension between. Once this tension becomes obvious, how to respond to it appears organically. This organic response would be similar to when it itches and we scratch, or when we feel thirsty and drink water, so as to satisfy our need in a spontaneous and not speculative manner."
@@ -134,7 +134,7 @@ t:
     timeline:
       traditional_practices:
         title: Prácticas tradicionales
-        text: "En Yogestalt la integración de prácticas tradicionales como ásanas (posiciones corporales), pránáyámas (expansión de la energía por medio de la respiración), mantras (vocalización), mudrás (gestos hechos con las manos), yoganidrá (la integración a través del sueño), dhyána (concentración, contemplación), kriyás (activación orgánica) proporcionan recursos prácticos para la vida cotidiana que se pueden hacer en cualquier momento."
+        text: "En Yogestalt la integración de prácticas tradicionales como ásanas (posiciones corporales), pránáyámas (expansión de la energía por medio de la respiración), mantras (vocalización), mudrás (gestos hechos con las manos), yoganidrá (la integración a través del sueño), dhyána (concentración, contemplación), kriyás (activación orgánica) y los recursos proporcionados por la Terapia Gestalt ofrecen los elementos prácticos para la vida cotidiana que se pueden hacer en cualquier momento."
       intention:
         title: Nuestra intención
         text: "En Yogestalt hay una permanente intención de retirarse de las ideas preconcebidas para iniciar un camino personal de descubrimiento consciente de las partes opuestas que nos conforman y dan origen a los torbellinos de la conciencia. Yogestalt propone diversas prácticas para facilitar el reconocimiento de dichos opuestos, la tensión que existe entre ellos y profundizar en el contacto. Una vez reconocida dicha tensión,  surge la forma de responder orgánicamente. Esta respuesta orgánica sería similar a cuando sentimos picazón y nos rascamos, o cuando sentimos sed y bebemos agua para satisfacer de forma espontánea, no especulativa, esta necesidad."
@@ -269,7 +269,9 @@ people:
 - name: Cristina Di Salvo
   pic: cristina
   description: entry_cristina
-  social: []
+  social: 
+    - title: envelope
+      url: mailto:info@yogestalt.com
 
 - name: Celeste Carrillo
   pic: cele
@@ -278,7 +280,7 @@ people:
     - title: globe
       url: http://www.omshankara.com/
     - title: envelope
-      url: mailto:info@yogestalt.com
+      url: mailto:cele@yogestalt.com
 
 
 # Build settings
